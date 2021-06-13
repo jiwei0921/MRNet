@@ -52,5 +52,17 @@ More details in demo.py
 1. RIGA benchmark: you can access to this download [link](https://pan.baidu.com/s/1PdvsVUOduuaJ7l4yxyZbew), with fetch code (**urob**). 
 2. QUBIQ challenge: the formal web link is [here](https://qubiq.grand-challenge.org/participation/). 
 
+### Bibtex
+```
+@InProceedings{Ji_2021_MRNet,
+    author    = {Ji, Wei and Yu, Shuang and Wu, Junde and Ma, Kai and Bian, Cheng and Bi, Qi and Li, Jingjing and Liu, Hanruo and Cheng, Li and Zheng, Yefeng},
+    title     = {Learning Calibrated Medical Image Segmentation via Multi-Rater Agreement Modeling},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {12341-12351}
+}
+```
+
 ### Contact Us
 If you have any questions, please contact us ( wji3@ualberta.ca ).
