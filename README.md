@@ -1,5 +1,11 @@
-# MRNet Code
+## [Learning Calibrated Medical Image Segmentation via Multi-rater Agreement Modeling](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Learning_Calibrated_Medical_Image_Segmentation_via_Multi-Rater_Agreement_Modeling_CVPR_2021_paper.pdf)
 
+![avatar](https://github.com/jiwei0921/DCF/blob/main/calibration.png) 
+### Introduction for Calibrated Medical Image Segmentation
+
+ecvf. com/con tent/C VPR 2021ecvf.com  /content/CVPR2021ecv f.com/ con  tent/CVPR2021ec vf.c om/co nt ent/CVPR2021
+
+## MRNet Code
 
 ### > Requirment
 + pytorch 1.0.0+
