@@ -1,4 +1,4 @@
-## [Learning Calibrated Medical Image Segmentation via Multi-rater Agreement Modeling](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Learning_Calibrated_Medical_Image_Segmentation_via_Multi-Rater_Agreement_Modeling_CVPR_2021_paper.pdf)
+### [Learning Calibrated Medical Image Segmentation via Multi-rater Agreement Modeling](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Learning_Calibrated_Medical_Image_Segmentation_via_Multi-Rater_Agreement_Modeling_CVPR_2021_paper.pdf)
 
 ![avatar](https://github.com/jiwei0921/DCF/blob/main/calibration.png) 
 ### Introduction for Calibrated Medical Image Segmentation
