@@ -1,10 +1,14 @@
-### [Learning Calibrated Medical Image Segmentation via Multi-rater Agreement Modeling](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Learning_Calibrated_Medical_Image_Segmentation_via_Multi-Rater_Agreement_Modeling_CVPR_2021_paper.pdf)
----
+### [Learning Calibrated Medical Image Segmentation via Multi-rater Agreement Modeling (CVPR2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Learning_Calibrated_Medical_Image_Segmentation_via_Multi-Rater_Agreement_Modeling_CVPR_2021_paper.pdf)
+------
+![avatar](https://github.com/jiwei0921/MRNet/blob/main/Introduction.png) 
 
-![avatar](https://github.com/jiwei0921/MRNet/blob/main/Multi-rater.png) 
+------
+
 ### Introduction for Calibrated Medical Image Segmentation
 
-ecvf. com/con tent/C VPR 2021ecvf.com  /content/CVPR2021ecv f.com/ con  tent/CVPR2021ec vf.c om/co nt ent/CVPR2021
+As depicted in the figure above, in medical image analysis, it is typical to collect multiple annotations, each from a different clinical expert or rater, in the expectation that possible diagnostic errors could be mitigated. Meanwhile, from the computer vision practitioner viewpoint, it has been a common practice to adopt the ground-truth labels obtained via either the majority-vote or simply one annotation from a preferred rater. This process, however, tends to overlook the rich information of agreement or disagreement ingrained in the raw multirater annotations. To address this issue, we propose to explicitly model the multi-rater (dis-)agreement, i.e., **MRNet**, which effectively improves the calibrated performance for generic medical image segmentation tasks. 
+
+------
 
 ## MRNet Code
 
