@@ -60,7 +60,7 @@ More details in demo.py
 
 
 ### Dataset
-1. RIGA benchmark: you can access to this download [link](https://pan.baidu.com/s/1PdvsVUOduuaJ7l4yxyZbew), with fetch code (**urob**). 
+1. RIGA benchmark: you can access to this download [link](https://pan.baidu.com/s/1PdvsVUOduuaJ7l4yxyZbew), with fetch code (**urob**) or [Google Drive](https://drive.google.com/file/d/14UyINzPecVDZwnX-e0gw9F6pS4bJRFZA/view). 
 2. QUBIQ challenge: the formal web link is [here](https://qubiq.grand-challenge.org/participation/). 
 
 ### Bibtex
