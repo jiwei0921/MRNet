@@ -338,8 +338,8 @@ class Trainer(object):
 
                 with torch.no_grad():
                     condition = torch.tensor([[1/6]]).expand(b_size,6).to(dtype=torch.float32) # Default Majority
-                    # condition = torch.tensor([[1/6]]).expand(b_size,6).to(dtype=torch.float32)
-                    # condition = torch.randint(1, 11, (b_size, 6), dtype=torch.float32)
+                    # condition = torch.tensor([[1, 0, 0, 0, 0, 0]]).expand(b_size,6).to(dtype=torch.float32) # Test each rater
+                    # condition = torch.randint(1, 11, (b_size, 6), dtype=torch.float32) # Test random mode
                     if self.cuda:
                         condition = condition.cuda()
                     for i in range(0, b_size):
