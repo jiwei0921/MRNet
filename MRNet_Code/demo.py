@@ -27,7 +27,7 @@ import time
 
 
 parameters = dict(
-        max_iteration=60000,
+        max_iteration=80000,
         spshot=30,
         nclass=2,
         b_size=8,
